@@ -6,3 +6,8 @@
 - **Generating text content**: Completing a prompt with auto-generated text, filling in the blanks in a text with masked words
 - **Extracting an answer from a text**: Given a question and a context, extracting the answer to the question based on the information provided in the context
 - **Generating a new sentence from an input text**: Translating a text into another language, summarizing a text
+
+## Transformers  Library
+- **Library**: https://github.com/huggingface/transformers
+- **Pre-trained models repo**: https://huggingface.co/models
+- 
