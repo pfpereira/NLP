@@ -1,4 +1,4 @@
-# NLP Course - Hugging Face
+# NLP Transformers - Hugging Face
 
 ## NLP Tasks
 - **Classifying whole sentences**: Getting the sentiment of a review, detecting if an email is spam, determining if a sentence is grammatically correct or whether two sentences are logically related or not
