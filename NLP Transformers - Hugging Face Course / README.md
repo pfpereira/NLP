@@ -11,3 +11,7 @@
 - **Library**: https://github.com/huggingface/transformers
 - **Pre-trained models repo**: https://huggingface.co/models
 
+## Transformer Families
+- GPT-like (also called auto-regressive Transformer models)
+- BERT-like (also called auto-encoding Transformer models)
+- BART/T5-like (also called sequence-to-sequence Transformer models)
