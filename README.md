@@ -1,4 +1,4 @@
-# NLP
+# NATURAL LANGUAGE PROCESSING (NLP)
 Repository for AI content related with Natural Language Processing (NLP)
 
 ## List of Contents
